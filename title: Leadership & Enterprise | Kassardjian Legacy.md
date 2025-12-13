@@ -1,62 +1,47 @@
----
-title: Leadership & Enterprise Authority | Kassardjian Legacy
-description: Formal record of leadership, authority, and operational command of the Kassardjian enterprises across the United Kingdom and Ghana.
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Leadership & Enterprise Authority | Kassardjian Legacy</title>
+  <meta name="description" content="Formal record of leadership and operational authority of the Kassardjian enterprises across the United Kingdom and Ghana.">
+</head>
+<body>
 
-# Leadership & Enterprise Authority
+<h1>Leadership & Enterprise Authority</h1>
 
-**Haroutune Kassardjian**, heir of **Aksor Kassardjian**, presently directs and commands the Kassardjian enterprises operating between the **United Kingdom** and **Ghana**.
+<p><strong>Haroutune Kassardjian</strong>, heir of <strong>Aksor Kassardjian</strong>, presently directs and commands the Kassardjian enterprises operating between the <strong>United Kingdom</strong> and <strong>Ghana</strong>.</p>
 
-The Kassardjian enterprises are organised and executed through two principal arms:
+<p>The Kassardjian enterprises are organised and executed through two principal arms:</p>
 
-- **Drake Exports Ltd** — United Kingdom  
-- **Kassardjian Crude Ghana Limited** — Ghana  
+<ul>
+  <li><strong>Drake Exports Ltd</strong> — United Kingdom</li>
+  <li><strong>Kassardjian Crude Ghana Limited</strong> — Ghana</li>
+</ul>
 
-This structure is neither incidental nor provisional. It reflects a deliberate division of authority, function, and capital deployment.
+<p>This structure is deliberate and authoritative, reflecting a defined division of capital command and operational execution.</p>
 
-## United Kingdom Arm
+<h2>United Kingdom Arm</h2>
 
-The United Kingdom arm, conducted through **Drake Exports Ltd**, constitutes the **financial and strategic centre** of the enterprise. From London, Drake Exports undertakes the financing of government projects, the structuring of supply mandates, and the mobilisation of capital and material resources.
+<p>The United Kingdom arm, conducted through <strong>Drake Exports Ltd</strong>, constitutes the financial and strategic centre of the enterprise. From London, capital is deployed, government projects are financed, and supply mandates are structured and underwritten.</p>
 
-Drake Exports does not exist merely to intermediate transactions. It operates as a **financing principal**, advancing capital, arranging supply, and underwriting execution where required. Ministries supplied under this framework are not treated as counterparties dependent upon routine instruments, but as institutions financed and enabled through structured arrangements.
+<p>Drake Exports Ltd does not operate as a passive intermediary. It functions as a financing principal, advancing capital and enabling execution beyond routine documentary instruments.</p>
 
-## Ghana Arm
+<h2>Ghana Arm</h2>
 
-The Ghana arm, conducted through **Kassardjian Crude Ghana Limited**, serves as the **principal operational and contractual authority** of the enterprise. It is responsible for execution on the ground, contractual performance, delivery, and operational command.
+<p>The Ghana arm, conducted through <strong>Kassardjian Crude Ghana Limited</strong>, serves as the principal operational and contractual authority. All substantive contracts, delivery, and execution are administered on the ground through this entity.</p>
 
-All substantive contracts, operational undertakings, and project execution are administered through this entity, ensuring direct control, accountability, and continuity.
+<h2>Operating Doctrine</h2>
 
-## Operating Doctrine
+<p>The Kassardjian enterprises do not confine themselves to letters of credit or routine guarantees. Where required, ministries are financed directly through <strong>Drake Exports Ltd</strong>, with execution carried out by <strong>Kassardjian Crude Ghana Limited</strong>.</p>
 
-Under the leadership of Haroutune Kassardjian, the Kassardjian enterprises do not confine themselves to the passive mechanics of letters of credit or conventional guarantees. Where circumstances require, **ministries are financed directly through Drake Exports Ltd**, with supply executed through Kassardjian Crude Ghana Limited.
+<p>This doctrine reflects a capital-first, execution-assured model of enterprise.</p>
 
-This doctrine reflects a long-form approach to enterprise: capital first, execution assured, authority retained.
+<hr>
 
-## Continuity
+<p><em>Kassardjian Legacy<br>
+Authority · Continuity · Command</em></p>
 
-This structure represents a unified system of finance, supply, and command, maintained with discipline and intent, and aligned with legacy standards of enterprise governance.
-
----
-
-*Kassardjian Legacy*  
-*Authority · Continuity · Command*
-
-
-All substantive contracts, operational undertakings, and project execution are administered through this entity, ensuring direct control, accountability, and continuity.
-
-## Operating Doctrine
-
-Under the leadership of Haroutune Kassardjian, the Kassardjian enterprises do not confine themselves to the passive mechanics of letters of credit or conventional guarantees. Where circumstances require, **ministries are financed directly through Drake Exports Ltd**, with supply executed through Kassardjian Crude Ghana Limited.
-
-This doctrine reflects a long-form approach to enterprise: capital first, execution assured, authority retained.
-
-## Continuity
-
-This structure represents a unified system of finance, supply, and command, maintained with discipline and intent, and aligned with legacy standards of enterprise governance.
-
----
-
-*Kassardjian Legacy*  
-*Authority · Continuity · Command*
+</body>
+</html>
 
 *Institutional Record*
