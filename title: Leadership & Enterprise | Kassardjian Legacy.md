@@ -41,4 +41,22 @@ This structure represents a unified system of finance, supply, and command, main
 *Kassardjian Legacy*  
 *Authority · Continuity · Command*
 
+
+All substantive contracts, operational undertakings, and project execution are administered through this entity, ensuring direct control, accountability, and continuity.
+
+## Operating Doctrine
+
+Under the leadership of Haroutune Kassardjian, the Kassardjian enterprises do not confine themselves to the passive mechanics of letters of credit or conventional guarantees. Where circumstances require, **ministries are financed directly through Drake Exports Ltd**, with supply executed through Kassardjian Crude Ghana Limited.
+
+This doctrine reflects a long-form approach to enterprise: capital first, execution assured, authority retained.
+
+## Continuity
+
+This structure represents a unified system of finance, supply, and command, maintained with discipline and intent, and aligned with legacy standards of enterprise governance.
+
+---
+
+*Kassardjian Legacy*  
+*Authority · Continuity · Command*
+
 *Institutional Record*
